@@ -13,7 +13,6 @@ import java.util.UUID;
 @Service
 public class PersonService {
 
-    // comment.
     private final PersonDao personDao;
 
     @Autowired
